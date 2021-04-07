@@ -3,7 +3,7 @@ class StaticClass1
   int x; //instance member variable
   private static int y;  //static member variable private not accessible outside of the class
   
-  public void func1() {System.out.println("func1 ");}  //instance member function
+  public void func1() {System.out.println(" This is from func1 ");}  //instance member function
   
   public static void func2() {System.out.println("static func2");} //for this func accessiable only static variable
   
