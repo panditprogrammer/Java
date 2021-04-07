@@ -20,7 +20,7 @@ class Box
 }
 
 //MAIN FUNCTION 
-class ExampleClass
+public class ExampleClass
 {
     public static void main(String [] args)
 	{
