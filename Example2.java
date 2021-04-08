@@ -1,4 +1,4 @@
-//function overloading 
+//function overridding
 
 class A 
 {
