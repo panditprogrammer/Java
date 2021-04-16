@@ -2,6 +2,8 @@
 
 class Main
 {
+	int a; //we cannot access non static variable in static class
+	
 	//create a static inner class
 	static class Inner
 	{
