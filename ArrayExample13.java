@@ -4,7 +4,7 @@ public class ArrayExample13
 	public static void main(String []args)
 	{
 		//creating 2d array
-		int [][]arr = new int[3][];
+		int []arr = new int[3];
 		
 		//creating nesting array
 		arr[0] = new int[2];
